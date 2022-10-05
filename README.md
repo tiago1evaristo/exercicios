@@ -1,2 +1,2 @@
-# exercicios
- exercicios e desafios python
+# exercícios
+ exercícios e desafios python
